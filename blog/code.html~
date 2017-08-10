@@ -1,0 +1,6 @@
+---
+layout: blog
+title: Development
+permalink: /code/
+---
+{% include category.html %}

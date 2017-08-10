@@ -1,0 +1,58 @@
+{
+  "website":{
+    "title": "Nixon's blog"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "Hi, I'm a Web Developer & Sysadmin, witch more of 5 years of experience, Life is a continuous learning process, so remember, do something today that your future will thank you for."
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "sige": "System build in Symfony, ExtJS and PostgreSQL for the elections control.",
+    "sicsum": "Information System made to handle different process in a gobernamental institution.",
+    "eseferad": "Redisign of a e-commerce made in Wordpress and WooCommerce.",
+    "wpplugin": "Wordpress Plugin to handle upload and process of data in CSV.",
+    "cpanel": "Plugin made in Php for Cpanel, to decrese the size of images without afect her quality.",
+    "laradocker": "Bundle made to handle Docker container provisioning in Laravel.",
+    "socialpana": "Saas to schedule posts in social networks like Facebook, Twitter, Instagram and LinkedIn."
+  },
+  "career":{
+    "my_career": "My Career",
+    "nextcode": "Freelance Development",
+    "nextcode_des": "Now by my own, i try to specialized in specific tecnologies, like AWS, Gitlab CI, Budddy.works, and others.",
+    "nextcode_date": "Aug. 2015",
+    "nextcode_job": "Freelance",
+    "netease": "Ideas International",
+    "netease_des": "In Ideas International, I work with some DevOps(ci, cd), AWS, Laravel & Ionic development.",
+    "netease_date": "Oct. 2015",
+    "netease_job": "Developer",
+    "ucloud": "Mayoralty of San Francisco",
+    "ucloud_des": "In the Mayoralty of San Francisco, I started like developer dealing with servers and Linux system and use shell scripts to manage massive server and finaly end as cordinator deveolping Web App with Symfony, PostgreSQL and others Tecnologies.",
+    "ucloud_date": "Dec. 2011",
+    "ucloud_job": "Coordinator of Tecnology",
+    "college": "Graduation",
+    "college_des": "At August 2011, at one step to graduated from University i started my IT Carrer in the Mayoralty of San Francisco.",
+    "college_date": "Aug. 2011",
+    "college_job": "Intern"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}
