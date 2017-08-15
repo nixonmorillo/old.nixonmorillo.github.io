@@ -47,10 +47,10 @@ donation: off  # type 'on'/'off' to choice display donation button at post page 
 encoding: utf-8
 
 # Compress Settings
-#compress_html:
-#  clippings: all
-#  comments:  ["<!-- ", " -->"]
-#  endings:   all
+compress_html:
+  clippings: all
+  comments:  ["<!-- ", " -->"]
+  endings:   all
 
 # other settings
 highlighter: rouge
