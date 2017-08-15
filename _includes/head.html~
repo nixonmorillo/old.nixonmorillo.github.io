@@ -20,7 +20,7 @@
   <!-- favicon -->
   <link rel="shortcut icon" href="{{ "/static/assets/img/favicon.ico" | prepend: site.baseurl }}">
 
-  <link rel="stylesheet" href="{{ "/static/assets/app-20170216.min.css" | prepend: site.baseurl }}" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="{{ "/static/assets/app-20170216.min.css" | prepend: site.baseurl }}"></noscript>
+  <link href="{{ "/static/assets/app-20170216.min.css" | prepend: site.baseurl }}" rel="stylesheet">
   <script async src="{{"/static/assets/app-20170216.min.js"| prepend: site.baseurl }}"></script>
 
   <script type="text/javascript">
