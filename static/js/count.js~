@@ -1,5 +1,0 @@
-$(document).ready(function() {
-    preContent = $("#jalpc_site_pv").html();
-    $("#jalpc_site_pv").html(preContent);
-    $("#jalpc_site_pv").html('<span class="navy">Mors Indecepta</span>&nbsp;<span data-i18n="link.view">views</span>&nbsp;||&nbsp;' + preContent);
-});
