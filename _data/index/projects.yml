@@ -3,35 +3,42 @@
 # Projects img in 'static/assets/img/projects/', to change edit '_includes/sections/projects.html'.
 - name: Sige
   i18n: sige
+  url: "#"
   img: sige.png
   desc: System build in Symfony, ExtJS and PostgreSQL for the elections control.
 
 - name: Sicsum
   i18n: sicsum
+  url: "#"
   img: sicsum.png
   desc: Information System made to handle different process in a public institution.
 
 - name: Eseferad
   i18n: eseferad
+  url: "#"
   img: eseferad.png
   desc: Redisign of a e-commerce made in Wordpress and WooCommerce.
 
 - name: WP Plugin
   i18n: wpplugin
+  url: "#"
   img: wpplugin.png
   desc: Wordpress Plugin to handle upload and process of data in CSV.
 
 - name: Cpanel
   i18n: cpanel
+  url: "#"
   img: cpanel.png
   desc: Plugin made in Php for Cpanel, to decrese the size of images without afect her quality.
 
 - name: Lara Docker
   i18n: laradocker
+  url: "#"
   img: laradocker.png
   desc: Bundle made to handle Docker container provisioning in Laravel.
 
 - name: SocialPana
   i18n: socialpana
+  url: "#"
   img: socialpana.png
   desc: Saas to schedule posts in social networks like Facebook, Twitter, Instagram and LinkedIn.

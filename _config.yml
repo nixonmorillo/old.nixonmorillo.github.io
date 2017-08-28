@@ -1,19 +1,19 @@
 
 # Website settings
-title: Nixon
-description: Blog personal de Nixon Morillo, recursos de programacion, computacion en nube, servidores y un poco mas!.
+title: Nixon Morillo
+description: Blog personal & Porfolio de Nixon Morillo, recursos de programacion, computacion en nube, servidores y un poco mas!.
 keywords: nixon morillo, morillo nixon, morillo, nixon, nixonxyz, nixonmorillo,  nixon.xyz, nixon blog, zulia, maracaibo, venezuela, nixon maracaibo, nixon venezuela, nixon zulia, nixon sistemas, nixon consultor it, nixon programador, nixon developer, nixon it consultant
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage'
-url: http://nixon.xyz  # url should be changed to 'http://www.jack003.com/homepage' as before
+url: https://nixon.xyz  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
+img_path: https://nixon.xyz/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Nixon  # Be used at blog posts' author.
   first_name: Nixon  # Be used at index page about me section.
   last_name: Morillo  # Be used at index page about me section.
-  cv: http://cv.nixon.xyz  # A online CV can be printed as PDF, leave blank if you don't have now
+  cv: http://cvmkr.com/NPRf  # A online CV can be printed as PDF, leave blank if you don't have now
   email: me@nixon.xyz  # Leave blank if you don't have now
   linkedin_username: nixonmorillo  # Leave blank if you don't have now
   github_username: nixonmorillo  # Leave blank if you don't have now
