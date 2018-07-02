@@ -7378,7 +7378,7 @@ body.landing-page {
 
 .landing-page .navbar-default {
     background-color: rgba(0, 0, 0, 0.6);
-    border-color: rgba(0, 0, 0, 0.6);
+    border-color: transparent;
     transition: all .3s ease-in-out 0s
 }
 
